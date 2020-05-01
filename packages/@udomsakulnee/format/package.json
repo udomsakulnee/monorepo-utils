@@ -1,0 +1,10 @@
+{
+  "name": "@udomsakulnee/format",
+  "version": "1.0.0",
+  "description": "format utility",
+  "main": "index.js",
+  "repository": "https://github.com/udomsakulnee/monorepo-utils",
+  "author": "Wisut Udomsakulnee",
+  "license": "MIT",
+  "private": false
+}
